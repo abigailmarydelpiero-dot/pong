@@ -15,7 +15,7 @@ body {
 }
 
 .board {
-    height 85vh;
+    height: 85vh;
     width: 80vw;
     background-image: linear-gradient(
         to right, #5c6e91,#839b97);
